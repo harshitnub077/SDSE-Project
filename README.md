@@ -56,7 +56,7 @@
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshandev/Food-Delivery
+    git clone https://github.com/harshitnub077/SDSE-Project
 ```
 
 Go to the project directory
