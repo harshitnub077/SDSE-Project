@@ -142,6 +142,17 @@ The application is deployed on Render.
 Contributions are always welcome!
 Just raise an issue, and we will discuss it.
 
+## Contributors
+
+This project is a collaborative effort by the following team members:
+
+- **[Harshit](https://github.com/harshitnub077)** — Frontend & Project Lead
+- **[Prakhar](https://github.com/Prakhar13o3)** — Backend & Authentication
+- **[Om](https://github.com/Omc12)** — Admin Panel & File Handling
+- **[Pankaj](https://github.com/pankaj-cod)** — Global Store & Final Polish
+- **[Peter Steinberger](https://github.com/steipete)** — System Monitoring & Standards
+- **[Microsoft](https://github.com/microsoft)** — CI/CD & Containerization
+
 ## Feedback
 
 If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
