@@ -150,9 +150,6 @@ Just raise an issue, and we will discuss it.
 | <img src="https://github.com/Prakhar13o3.png" width="40" height="40"> **[Prakhar](https://github.com/Prakhar13o3)** | Backend Dev | Auth & Database Schemas |
 | <img src="https://github.com/Omc12.png" width="40" height="40"> **[Om Chimurkar](https://github.com/Omc12)** | Admin Expert | Admin Panel & File Multer |
 | <img src="https://github.com/pankaj-cod.png" width="40" height="40"> **[Pankaj](https://github.com/pankaj-cod)** | Logic Specialist | Global Context & Cart Logic |
-| <img src="https://github.com/steipete.png" width="40" height="40"> **[Peter Steinberger](https://github.com/steipete)** | Quality Engineer | Health Monitoring & Standards |
-| <img src="https://github.com/microsoft.png" width="40" height="40"> **[Microsoft](https://github.com/microsoft)** | DevOps Lead | CI/CD & Production Docker |
-| <img src="https://github.com/torvalds.png" width="40" height="40"> **[Linus Torvalds](https://github.com/torvalds)** | Kernel Master | Project Makefile & Automation |
 
 ## Feedback
 

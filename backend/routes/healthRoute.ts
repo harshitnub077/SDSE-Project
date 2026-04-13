@@ -6,7 +6,6 @@ const healthRouter = express.Router();
  * @route   GET /api/health
  * @desc    Check if the server and essential services are healthy
  * @access  Public
- * @author  Peter Steinberger (steipete)
  */
 healthRouter.get("/", (req, res) => {
   res.status(200).json({
