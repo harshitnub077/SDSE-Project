@@ -145,9 +145,3 @@ Just raise an issue, and we will discuss it.
 
 If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
 
-## Design Progress
-
-- Base classes and interfaces have been started in `docs/design.md`.
-- One design pattern is documented in `docs/design.md`.
-- Entity relationship and cardinality information is available in `diagrams/er-diagram.md`.
-- SDLC and OOP concepts are summarized in `docs/design.md`.
